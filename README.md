@@ -2,7 +2,7 @@
 Inventory Management System Project
 Features :
 
-1) Code is written using Dictionary, File handling operations performed on .txt file (Reason: ERROR WHILE CREATING .json FILE IN ANACONDA NAVIGATOR),JSON
+1) Code is written using Anaconda Navigator and contains Dictionary, File handling operations performed on .txt file (Reason: ERROR WHILE CREATING .json FILE IN ANACONDA NAVIGATOR), JSON
 
 2) It is a Menu driven program :
 
